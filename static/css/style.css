@@ -420,6 +420,21 @@ a { color: inherit; text-decoration: none; }
     margin-bottom: 1.25rem;
 }
 
+.flash {
+    max-width: 480px;
+    margin: 1rem auto 0;
+    padding: 0.75rem 1rem;
+    border-radius: var(--radius-sm);
+    font-size: 0.875rem;
+    text-align: center;
+}
+
+.flash-success {
+    background: var(--accent-light);
+    color: var(--accent);
+    border: 1px solid #b7d4bf;
+}
+
 .form-group { margin-bottom: 1.25rem; }
 
 .form-group label {

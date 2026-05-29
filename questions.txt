@@ -1,0 +1,3 @@
+Q1: what does this project do?
+Q2: What tech stack this project use?
+Q3: Explain the project in detailed to me
